@@ -9,3 +9,8 @@
 	width: 240px !important;
 	 position: absolute;
 }*/
+
+
+#id img{
+	max-width: 1% !important;
+}

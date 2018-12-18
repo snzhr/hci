@@ -3364,3 +3364,34 @@ mfp-with-zoom .mfp-container,
 	color: white;
 	text-align: nter;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+#whatsapp{
+
+  display:none;
+  }
+
+ @media screen and (max-width: 480px) {
+
+#whatsapp{
+  display: block;
+  position: fixed;
+  z-index: 100;
+  right: -560px;
+  top: 80%;
+  }
+#whatsapp img{
+  width: 12%;
+}
+
+} 
