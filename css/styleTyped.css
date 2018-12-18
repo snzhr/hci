@@ -1,0 +1,28 @@
+.type{
+	position: absolute;
+	top: 40%; 
+	width: 100%;
+	font-size: 400%;
+	font-family: "Raleway", Arial, sans-serif;
+  	font-weight: 300;
+}
+
+@media screen and (max-width: 768px) {
+  .type{
+   	position: absolute;
+	top: -100px; 
+	width: 100%;
+	font-size: 300%;
+
+   }
+}
+@media screen and (max-width: 480px) {
+ 	.type{
+		position: absolute;
+		top: -100px;
+		left: -10px; 
+s		width: 100%;
+		font-size: 200%;
+
+   }
+}
